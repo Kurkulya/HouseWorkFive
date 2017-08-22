@@ -10,6 +10,11 @@ namespace HouseWorkFive
     {
         static void Main(string[] args)
         {
+            OneString.PrintAlphabetUpper();
+            OneString.PrintAlphabetReverse();
+            OneString.PrintAlphabetRus();
+            OneString.PrintDigits();
+            OneString.PrintASCII();
         }
     }
 }
